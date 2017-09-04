@@ -1,0 +1,168 @@
+[ 2017-07-16T18:33:27+08:00 ] 127.0.0.1 /
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\project\python\website\ThinkPHP\Common\common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002744s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\project\python\website\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+ERR: Unknown database 'gogobar'
+
+[ 2017-07-16T18:33:28+08:00 ] 127.0.0.1 /
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\project\python\website\ThinkPHP\Common\common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001036s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\project\python\website\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+ERR: Unknown database 'gogobar'
+
+[ 2017-07-16T18:33:29+08:00 ] 127.0.0.1 /
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\project\python\website\ThinkPHP\Common\common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001942s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\project\python\website\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+ERR: Unknown database 'gogobar'
+
+[ 2017-07-16T18:34:01+08:00 ] 127.0.0.1 /
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\project\python\website\ThinkPHP\Common\common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000577s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000693s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\project\python\website\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+ERR: Unknown database 'gogobar'
+
+[ 2017-07-16T18:34:02+08:00 ] 127.0.0.1 /
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\project\python\website\ThinkPHP\Common\common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000620s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\project\python\website\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+ERR: Unknown database 'gogobar'
+
+[ 2017-07-16T18:34:03+08:00 ] 127.0.0.1 /
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\project\python\website\ThinkPHP\Common\common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001884s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\project\python\website\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+ERR: Unknown database 'gogobar'
+
+[ 2017-07-16T18:34:03+08:00 ] 127.0.0.1 /
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\project\python\website\ThinkPHP\Common\common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000617s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\project\python\website\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+ERR: Unknown database 'gogobar'
+
+[ 2017-07-16T18:51:47+08:00 ] 127.0.0.1 /
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\project\python\website\ThinkPHP\Common\common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002599s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\project\python\website\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+ERR: Unknown database 'gogobar'
+
+[ 2017-07-16T18:51:47+08:00 ] 127.0.0.1 /
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\project\python\website\ThinkPHP\Common\common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002964s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\project\python\website\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+ERR: Unknown database 'gogobar'
+
+[ 2017-07-16T18:51:48+08:00 ] 127.0.0.1 /
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\project\python\website\ThinkPHP\Common\common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002663s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\project\python\website\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+ERR: Unknown database 'gogobar'
+
+[ 2017-07-16T18:51:48+08:00 ] 127.0.0.1 /
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\project\python\website\ThinkPHP\Common\common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002095s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\project\python\website\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+ERR: Unknown database 'gogobar'
+
+[ 2017-07-16T18:51:48+08:00 ] 127.0.0.1 /
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\project\python\website\ThinkPHP\Common\common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001602s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\project\python\website\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+ERR: Unknown database 'gogobar'
+
+[ 2017-07-16T18:51:49+08:00 ] 127.0.0.1 /
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\project\python\website\ThinkPHP\Common\common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001743s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\project\python\website\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+ERR: Unknown database 'gogobar'
+
+[ 2017-07-16T18:51:49+08:00 ] 127.0.0.1 /
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\project\python\website\ThinkPHP\Common\common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001814s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002138s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\project\python\website\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+ERR: Unknown database 'gogobar'
+
+[ 2017-07-16T18:51:49+08:00 ] 127.0.0.1 /
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\project\python\website\ThinkPHP\Common\common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002772s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\project\python\website\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+ERR: Unknown database 'gogobar'
+
+[ 2017-07-16T18:58:37+08:00 ] 127.0.0.1 /
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\project\python\website\ThinkPHP\Common\common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001150s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001319s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\project\python\website\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+ERR: Unknown database 'gogobar'
+
+[ 2017-07-16T18:58:38+08:00 ] 127.0.0.1 /
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\project\python\website\ThinkPHP\Common\common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000827s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000953s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\project\python\website\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+ERR: Unknown database 'gogobar'
+
+[ 2017-07-16T18:58:38+08:00 ] 127.0.0.1 /
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\project\python\website\ThinkPHP\Common\common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000820s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001017s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\project\python\website\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+ERR: Unknown database 'gogobar'
+
+[ 2017-07-16T19:00:42+08:00 ] 0.0.0.0 /
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\project\python\website\ThinkPHP\Common\common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000939s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\project\python\website\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+ERR: Unknown database 'gogobar'
+
+[ 2017-07-16T20:54:08+08:00 ] 0.0.0.0 /
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\project\python\website\ThinkPHP\Common\common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001647s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\project\python\website\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+ERR: Unknown database 'gogobar'
+
+[ 2017-07-16T23:56:12+08:00 ] 0.0.0.0 /
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\project\python\website\ThinkPHP\Common\common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000845s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000974s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\project\python\website\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+ERR: Unknown database 'gogobar'
+

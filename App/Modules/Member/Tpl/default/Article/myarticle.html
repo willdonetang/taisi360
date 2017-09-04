@@ -1,0 +1,23 @@
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h1 class="pull-left" itemprop="headline">我发布的文章 &raquo</h1>
+        <div class="clean"></div>
+    </div>
+    <div class="panel-body">
+
+        <foreach name="list" item="list" >
+            <div itemprop="itemListElement">
+                <h2 class="h4" itemprop="name">
+                    <a target="_blank" href="<{:U('/article/'.$list['article_id'])}>" rel="bookmark" itemprop="url"><{$list.title}></a>
+                    <a style="float: right;font-size: 14px;" target="_blank" href="<{:U('/member/article/edit?aid='.$list['article_id'])}>" rel="bookmark" itemprop="url">编辑</a>
+                </h2>
+                <div itemprop="description">
+                    <p><{$list.summary}></p>
+                </div>
+            </div>
+        </foreach>
+
+    </div>
+    <div class="panel-footer text-muted"> 共发布了 <{$count}>篇文章</div>
+    <{$show}>
+</div>

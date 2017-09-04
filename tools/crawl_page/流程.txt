@@ -1,0 +1,31 @@
+#安装pip，
+#安装 snownlp https://github.com/isnowfy/snownlp
+
+#输入files.txt 包含文件编辑，一行一个数字
+#输出2个文件，img_url.txt:包含所有正文中的图片URL及对应的文件编号，ret.txt：解释后的JSON数据
+python parse.py
+
+#生成摘要
+#输入ret.txt，输出带摘要的ret_summary.txt
+python get_summary.py
+
+#加载img_url.txt 下载图片，保存在images文件夹
+#输出img_record.txt：记录每个URL保存的图片文件名
+python get_img.py
+
+#修正正文的图片URL地址，加载img_record.txt和ret_summary.txt，替换图片url为网站相对地址
+#输出修正后的数据：fix_img.txt
+python fix_img_url.py
+
+
+#导入数据库，输入fix_img.txt
+python import_db.py
+
+#一次导入，
+#输入编号的文档 files.txt 以及对应的pages目录下源文件
+#将源文件输出到数据库里面
+
+#数据更新
+#根据月份的种子url，然后将对应的源文件输出到数据库
+
+

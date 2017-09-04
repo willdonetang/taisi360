@@ -1,0 +1,8 @@
+download_360se_mainpage.py
+本脚本实现了在网站上通过年份和月份来抓取
+基本用法为：
+python download_360se_mainpage.py
+python download_360se_mainpage.py 2016 6
+本脚本可以直接插入到数据库里面。 ps：连接数据库需要修改自己本地的数据库文件。
+插入数据后，图片下载carwl_page/2016/6 目录下。
+将下载的图片移动到 Uploads\Article\crawl_images\images\2017\6 ps：carwl_images后面还有个images的目录
